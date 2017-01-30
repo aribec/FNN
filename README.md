@@ -27,7 +27,7 @@ Recomended configuration values in the first executions:
 With getFromMetadataFile = False the metadata files will be generated, then is possible to set a true and reuse these metadata files if the datasource is the same.
 
 
-To execute:
+## To execute
 
 DT: python decisionTree.py 
 
